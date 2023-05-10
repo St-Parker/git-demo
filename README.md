@@ -2,9 +2,8 @@
 
 This is my first repo
 
-## Ipsum Below
+## Website contents
 
-Gravitas on group
+Here are the files on my Website
 
-
-Pickles on nmy burger
+1. index.html
